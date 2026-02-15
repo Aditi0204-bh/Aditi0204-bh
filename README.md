@@ -43,30 +43,30 @@ I believe structured thinking and creativity can coexist — and that’s where 
 Python, C,  C++, HTML, CSS, JavaScript , OOP & DSA concepts  
 
 **Hardware / Platforms:**  
-Embedded Systems (Arduino, ESP32),
-PCB Design (Autodesk Eagle),
-Analog & Digital Circuits,
-Sensor Integration,
-Signal Processing (MATLAB, Simulink),
+Embedded Systems (Arduino, ESP32) ,
+PCB Design (Autodesk Eagle) ,
+Analog & Digital Circuits ,
+Sensor Integration ,
+Signal Processing (MATLAB, Simulink) ,
 Networking Basics (CISCO)
 
 **Data & Analytics tools:**  
-MS Excel
-Power BI
-SQL
+MS Excel ,
+Power BI ,
+SQL ,
 Python
 
 **Machine Learning & AI:** 
-Model Training & Evaluation
-Supervised Learning (SVM)
-Convolutional Neural Networks (CNNs)
-ResNet Architecture
-Vision Transformers (ViT)
-Image Preprocessing (Gaussian Blur, Filtering Kernels)
+Model Training & Evaluation ,
+Supervised Learning (SVM) ,
+Convolutional Neural Networks (CNNs) ,
+ResNet Architecture ,
+Vision Transformers (ViT) ,
+Image Preprocessing (Gaussian Blur, Filtering Kernels) ,
 Feature Extraction Techniques
 
 **Other skills:**   
-SEO & Content Strategy  
+SEO & Content Strategy ,  
 Leadership & Team Management  
 
 ---
