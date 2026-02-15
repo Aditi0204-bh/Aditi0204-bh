@@ -43,11 +43,11 @@ I believe structured thinking and creativity can coexist — and that’s where 
 Python, C,  C++, HTML, CSS, JavaScript , OOP & DSA concepts  
 
 **Hardware / Platforms:**  
-Embedded Systems (Arduino, ESP32)
-PCB Design (Autodesk Eagle)
-Analog & Digital Circuits
-Sensor Integration
-Signal Processing (MATLAB, Simulink)
+Embedded Systems (Arduino, ESP32),
+PCB Design (Autodesk Eagle),
+Analog & Digital Circuits,
+Sensor Integration,
+Signal Processing (MATLAB, Simulink),
 Networking Basics (CISCO)
 
 **Data & Analytics tools:**  
