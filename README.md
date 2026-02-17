@@ -4,7 +4,7 @@ Optimist | Thinker | Developer | Creator
 
 Final-year Electronics & Telecommunication Engineering student with a strong foundation in systems thinking, problem solving, and technical execution.  
 
-Currently exploring the intersection of **software, data, and finance** — building analytical depth alongside engineering expertise.
+Currently exploring the intersection of **software, data, and finance** ,building analytical depth alongside engineering expertise.
 
 ---
 
