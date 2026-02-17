@@ -1,6 +1,6 @@
-# 🌟 Hey, I'm Aditi Bhale
+# Hey, I'm Aditi Bhale
 
-Optimist | Thinker | Developer | Creator  
+Optimist | Thinker | Developer | Creator | Ex-Intern at Tech Mahindra
 
 Final-year Electronics & Telecommunication Engineering student with a strong foundation in systems thinking, problem solving, and technical execution.  
 
@@ -8,19 +8,20 @@ Currently exploring the intersection of **software, data, and finance** ,buildin
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- ⚙️ Engineering background with hands-on experience in Embedded Systems and hardware-software integration  
-- 💻 Skilled in software development and data-driven problem solving  
-- 📊 Growing interest in financial systems, analytics, and decision-making models  
-- 🏆 Leadership experience as President of Rotaract Club & Former Headgirl  
-- 🎭 Theatre artist and classical music singer — blending creativity with logic  
+- Ex-Intern at Tech Mahindra
+- President at Rotaract Club of MCOE
+- Skilled in software development and data-driven problem solving  
+- Growing interest in financial systems, analytics, and decision-making models  
+- Leadership experience as President of Rotaract Club & Former Headgirl  
+- Content writer, theatre artist and classical music singer (blending creativity with logic)
 
 I believe structured thinking and creativity can coexist — and that’s where meaningful systems are built.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Strengthening problem-solving through software development  
 - Exploring financial analytics and quantitative thinking  
@@ -28,16 +29,16 @@ I believe structured thinking and creativity can coexist — and that’s where 
 
 ---
 
-## 🛠 Projects in Progress
+## Projects in Progress
 
-- 🌾 **Crop Pest Detection App** – Deep learning model using ResNet & ViT.
-- 🌐 **Personal Portfolio Website** – Responsive site showcasing projects.
-- 📊 **Data Analytics Mini Projects** – Exploring real-world datasets.
+-  **Crop Pest Detection App** – Deep learning model using ResNet & ViT.
+-  **Personal Portfolio Website** – Responsive site showcasing projects.
+-  **Data Analytics Mini Projects** – Exploring real-world datasets.
 -VisionEdge – A camera-based blind spot detection system for safer roads.
 
 ---
 
-## 💻 Tech Toolkit
+## Tech Toolkit
 
 **Languages:**  
 Python, C,  C++, HTML, CSS, JavaScript , OOP & DSA concepts  
@@ -71,7 +72,7 @@ Leadership & Team Management
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aditi-bhale-3956a7256/
 - 📧 Email: aditibhale02@gmail.com
