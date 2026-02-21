@@ -17,7 +17,6 @@ Currently exploring the intersection of **software, data, and finance** ,buildin
 - Leadership experience as President of Rotaract Club & Former Headgirl  
 - Content writer, theatre artist and classical music singer (blending creativity with logic)
 
-I believe structured thinking and creativity can coexist — and that’s where meaningful systems are built.
 
 ---
 
@@ -31,10 +30,10 @@ I believe structured thinking and creativity can coexist — and that’s where 
 
 ## Projects in Progress
 
--  **Crop Pest Detection App** – Deep learning model using ResNet & ViT.
+-  **Crop Pest Detection App** – Smart Pest Identifier Framework using Multi-model Deep Learning Approach
 -  **Personal Portfolio Website** – Responsive site showcasing projects.
 -  **Data Analytics Mini Projects** – Exploring real-world datasets.
--VisionEdge – A camera-based blind spot detection system for safer roads.
+-  **VisionEdge** – A camera-based blind spot detection system for safer roads.
 
 ---
 
